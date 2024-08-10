@@ -1,0 +1,40 @@
+.inline {
+  display: inline;
+}
+
+#section-header {
+  background: url("../images/bg-banner.jpg") center no-repeat;
+  background-size: 100%;
+  color: #ffffff;
+}
+
+.title-header {
+  padding-left: 10px;
+}
+
+.section-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.single-block {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.row-space{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 232, 172);
+  color: #515151;
+}
+
+#signup-row {
+  background-color: goldenrod;
+  padding-bottom: 20px;
+}
+
+.white-text  {
+  color: #fff;
+}
