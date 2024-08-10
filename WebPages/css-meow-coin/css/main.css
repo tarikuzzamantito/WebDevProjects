@@ -1,0 +1,24 @@
+.inline {
+  display: inline;
+}
+
+#section-header {
+  background: url("../images/bg-banner.jpg") center;
+  background-size: 100%;
+  color: #ffffff;
+}
+
+.title-header {
+  padding-left: 10px;
+}
+
+.section-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.single-block {
+  padding: 0 !important;
+  margin: 0 !important;
+}
